@@ -1,0 +1,5 @@
+{
+  "name": "PaperDistill AI",
+  "description": "An intelligent tool to summarize PDFs and web content into clean overviews, flowcharts, and mind maps with translation capabilities.",
+  "requestFramePermissions": []
+}
